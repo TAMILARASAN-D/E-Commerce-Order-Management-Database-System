@@ -1,6 +1,7 @@
 # Week 8: Database Relationship Analysis using Joins 
 
 Multi-Table Business Reports
+
 Report 1: Customer Order Report
 
 <img width="538" height="192" alt="image" src="https://github.com/user-attachments/assets/c0c96b78-cf86-4baf-a40e-d59c0a041345" />
