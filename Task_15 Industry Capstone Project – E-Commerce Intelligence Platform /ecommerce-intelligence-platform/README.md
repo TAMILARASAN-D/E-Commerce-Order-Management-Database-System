@@ -10,11 +10,10 @@ ecommerce-intelligence-platform/
 ├── 01_Project_Report/
 │   ├── Capstone_Project_Report.md
 │   └── ER_Diagram.png
-├── 02_SQL_Source_Code/
 │   └── Task_15_Industry Capstone Project – E-Commerce Intelligence Platform.sql
-├── 03_Business_Analytics_Report/
+├── Business_Analytics_Report/
 │   └── Business_Analytics_Report.md
-└── 04_Presentation/
+└── Presentation/
     └── Capstone_Presentation_Outline.md
 ```
 
